@@ -71,9 +71,9 @@ Contributions are welcome! Feel free to submit a pull request or open an issue.
 ## 📞 Contact
 
 - **GitHub**: [@Maheshkrsaw](https://github.com/Maheshkrsaw)
-- **LinkedIn**: [Mahesh Kumar](https://www.linkedin.com/in/maheshkrsaw)
-- **Twitter**: [@maheshkrsaw](https://twitter.com/maheshkrsaw)
-- **Instagram**: [@maheshkrsaw](https://instagram.com/maheshkrsaw)
+- **LinkedIn**: [Mahesh Kumar](https://www.linkedin.com/in/mahesh-kumar-256808303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **Twitter**: [@maheshkrsaw](https://twitter.com/kumarMahesh9304)
+- **Instagram**: [@maheshkrsaw](https://instagram.com/itsmahesh_01)
 
 ## 📄 License
 
@@ -82,3 +82,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ✨ Enjoy browsing our burger website! 🍔✨
+
