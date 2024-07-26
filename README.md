@@ -43,8 +43,8 @@ burger-website/
 
 ## 📷 Screenshots
 
-![Home Page](images/home-page.png)
-![Menu Page](images/menu-page.png)
+![Home Page](IMG_20240726_115040.jpg)
+![Menu Page](IMG_20240726_115005.jpg)
 
 ## 🛠️ Installation
 
@@ -57,6 +57,12 @@ burger-website/
     cd BURGER-CODSOFT
     ```
 3. Open `index.html` in your browser to view the website.
+
+💼 Project Information
+This project was completed as part of an internship at Codesoft. During this internship, I learned and applied various web development skills to create a fully functional and visually appealing burger restaurant website.
+
+About Codesoft Technology
+Codesoft Technology is a leading software development company specializing in innovative and cutting-edge technology solutions. With a focus on web development, mobile app development, and custom software solutions, Codesoft Technology is committed to delivering high-quality services to clients across various industries. The internship at Codesoft provided valuable hands-on experience and professional growth opportunities, helping to hone my technical skills and project management abilities.
 
 ## 🤝 Contributing
 
