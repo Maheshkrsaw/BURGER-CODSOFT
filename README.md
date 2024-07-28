@@ -43,8 +43,8 @@ burger-website/
 
 ## 📷 Screenshots
 
-![Home Page](IMG_20240726_115040.jpg)
-![Menu Page](IMG_20240726_115005.jpg)
+![Home Page](/screenshot/IMG_20240726_115040.jpg)
+![Menu Page](/screenshot/IMG_20240726_115005.jpg)
 
 ## 🛠️ Installation
 
